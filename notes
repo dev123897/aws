@@ -1,0 +1,4 @@
+https://docs.aws.amazon.com/lambda/latest/dg/file-processing-app.html#Deploy the resources manually
+  documentation erroneously states that AmazonS3FullAccess does not need to be granted to the function's IAM policy.
+    IAM > Role (select encrypted pdf) > Permissions
+      In "Permissions policies", add the "AmazonS3FullAccess" permission to the function.
