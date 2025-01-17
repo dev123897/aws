@@ -1,0 +1,36 @@
+{
+    "version": "2.0",
+    "routeKey": "",
+    "rawPath": "/",
+    "rawQueryString": "",
+    "headers": {
+        "x-amzn-tls-cipher-suite": "",
+        "x-amzn-tls-version": "",
+        "x-amzn-trace-id": "",
+        "x-forwarded-proto": "",
+        "host": "my.lambda-url.region-name.on.aws",
+        "x-forwarded-port": "",
+        "x-forwarded-for": "<host.public.ip>",
+        "accept": "*/*",
+        "user-agent": "curl/8.5.0"
+    },
+    "requestContext": {
+        "accountId": "",
+        "apiId": "my",
+        "domainName": "my.lambda-url.region-name.on.aws",
+        "domainPrefix": "my",
+        "http": {
+            "method": "GET",
+            "path": "/",
+            "protocol": "HTTP/1.1",
+            "sourceIp": "",
+            "userAgent": "curl/8.5.0"
+        },
+        "requestId": "",
+        "routeKey": "",
+        "stage": "",
+        "time": "17/Jan/2025:18:06:52 +0000",
+        "timeEpoch": 1737137212181
+    },
+    "isBase64Encoded": false
+}
