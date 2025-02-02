@@ -1,2 +1,2 @@
 # AWS code
-Configuration and code running in AWS
+Configuration and code running in AWS.
